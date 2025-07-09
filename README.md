@@ -102,7 +102,7 @@ This comprehensive feature set allows us to answer a wide array of questions rel
     +-----v-----+
     | Visualization |
     +---------------+
-
+```
 
 ---
 
