@@ -218,6 +218,6 @@ Key outcomes from our analysis:
 
 ## 👨‍💼 Author
 
-**Venkat Sai Charan Karasala**  
+**Venkat Sai Charan**  
 Software Engineer | Cloud Enthusiast | Data Analyst  
 [GitHub](https://github.com/saicharankarasala) • [LinkedIn](https://linkedin.com/in/venkat-saicharan-karasala)
